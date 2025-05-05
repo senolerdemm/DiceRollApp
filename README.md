@@ -1,3 +1,3 @@
-# flutter_application_1
+# Roll dice
 
-A new Flutter project.
+A basic roll dice app with flutter
